@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.navigator {
+    padding: 12px;
+    font-size: 18px;
+}
+
+.navigator:hover {
+    filter: brightness(0.95);
+    cursor: pointer;
+    color: white;
+}
+
+.navigator:link {
+    color: black;
+}
