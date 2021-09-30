@@ -2,3 +2,12 @@
 	position: absolute;
 	margin-top: 1.2rem;
 }
+
+.bounding-box{
+	position: absolute;
+    box-shadow: 0 0 0 3px #1cd942 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
